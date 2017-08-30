@@ -1,0 +1,240 @@
+shangpai_date,url,price,title,address,price_new,xingshi
+2014-06,https://www.guazi.com/wh/3acd8952b88fce96x.htm,¥13.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u9a6c\u81ea\u8fbe\u963f\u7279\u5179 2014\u6b3e 2.0L \u84dd\u5929\u8c6a\u534e\u7248'>]",武汉,"
+                            新车指导价20.50万(含税)
+                    ",4.4万公里
+2015-06,https://www.guazi.com/wh/c6ed1007e3dea063x.htm,¥8.20            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u522b\u514b\u82f1\u6717 2015\u6b3e 15N \u81ea\u52a8\u7cbe\u82f1\u578b'>]",武汉,"
+                            新车指导价13.80万(含税)
+                    ",4.7万公里
+2014-04,https://www.guazi.com/wh/f5494fc7b552d538x.htm,¥5.27            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u522b\u514b\u51ef\u8d8a 2013\u6b3e 1.5L \u81ea\u52a8\u7ecf\u5178\u578b'>]",武汉,"
+                            新车指导价11.10万(含税)
+                    ",1.78万公里
+2015-12,https://www.guazi.com/wh/d7a3c1b209397d67x.htm,¥26.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u96f7\u514b\u8428\u65afNX 2015\u6b3e 200 \u524d\u9a71 \u950b\u884c\u7248'>]",武汉,"
+                            新车指导价34.50万(含税)
+                    ",1.51万公里
+2016-08,https://www.guazi.com/wh/ad1653320a4c60b6x.htm,¥24.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u9014\u89c2 2016\u6b3e 2.0TSI \u56db\u9a71\u6807\u51c6\u578b(\u8fdb\u53e3)'>]",武汉,"
+                            新车指导价35.70万(含税)
+                    ",1.7万公里
+2016-01,https://www.guazi.com/wh/ff4e4f9b4a847f57x.htm,¥25.99            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u96f7\u514b\u8428\u65afES 2015\u6b3e 200 \u7cbe\u82f1\u7248'>]",武汉,"
+                            新车指导价32.30万(含税)
+                    ",3.1万公里
+2014-05,https://www.guazi.com/wh/fd7807c879d2ab5bx.htm,¥7.70            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u6717\u9038 2013\u6b3e \u6539\u6b3e\u7ecf\u5178 1.6L \u81ea\u52a8\u98ce\u5c1a\u7248'>]",武汉,"
+                            新车指导价13.60万(含税)
+                    ",2.91万公里
+2015-10,https://www.guazi.com/wh/812cdbdc5de6385cx.htm,¥34.66            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5b9d\u9a6cX3 2014\u6b3e xDrive20i \u9886\u5148\u578b(\u8fdb\u53e3)'>]",武汉,"
+                            新车指导价49.90万(含税)
+                    ",4.69万公里
+2012-04,https://www.guazi.com/wh/51c994d76143c133x.htm,¥8.26            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u65e5\u4ea7\u900d\u5ba2 2011\u6b3e 2.0XV \u96f7 CVT 2WD'>]",武汉,"
+                            新车指导价19.60万(含税)
+                    ",9万公里
+2015-08,https://www.guazi.com/wh/dbff7c3dffdd6c06x.htm,¥8.60            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u957f\u5b89CS75 2014\u6b3e 1.8T \u81ea\u52a8\u7cbe\u82f1\u578b \u56fdV'>]",武汉,"
+                            新车指导价14.80万(含税)
+                    ",7.47万公里
+2014-01,https://www.guazi.com/wh/4ea0ae0f9ab39c4ax.htm,¥9.99            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u672c\u7530\u6770\u5fb7 2013\u6b3e 1.8L \u81ea\u52a8\u8212\u9002\u7248 5\u5ea7'>]",武汉,"
+                            新车指导价16.30万(含税)
+                    ",3.95万公里
+2016-05,https://www.guazi.com/wh/30d4f79d46e620d1x.htm,¥20.18            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u9014\u89c2 2016\u6b3e 300TSI \u81ea\u52a8\u56db\u9a71\u8c6a\u534e\u7248'>]",武汉,"
+                            新车指导价30.00万(含税)
+                    ",2.96万公里
+2013-09,https://www.guazi.com/wh/8e824ecbe71c1bd7x.htm,¥26.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5b9d\u9a6c3\u7cfb 2013\u6b3e 320Li \u8c6a\u534e\u8bbe\u8ba1\u5957\u88c5'>]",武汉,"
+                            新车指导价43.30万(含税)
+                    ",3.54万公里
+2015-02,https://www.guazi.com/wh/0448c4bd878de606x.htm,¥12.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u7eb3\u667a\u6377\u59277 SUV 2014\u6b3e 2.2T \u4e24\u9a71\u667a\u6167\u578b'>]",武汉,"
+                            新车指导价24.60万(含税)
+                    ",3.06万公里
+2010-10,https://www.guazi.com/wh/2b91c539a061907bx.htm,¥0.55            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u54c8\u98de\u677e\u82b1\u6c5f \u624b\u52a8'>]",武汉,"
+                    ",2.81万公里
+2012-12,https://www.guazi.com/wh/27bf1bfed8c85282x.htm,¥6.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u96ea\u4f5b\u5170\u79d1\u9c81\u5179 2012\u6b3e 1.6L SE AT'>]",武汉,"
+                            新车指导价14.60万(含税)
+                    ",5.53万公里
+2014-12,https://www.guazi.com/wh/2b81fe04644806f5x.htm,¥6.30            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u522b\u514b\u82f1\u6717 2012\u6b3e GT 1.6L \u624b\u52a8\u8fdb\u53d6\u7248'>]",武汉,"
+                            新车指导价14.90万(含税)
+                    ",6.8万公里
+2014-09,https://www.guazi.com/wh/4386be5b912a459ax.htm,¥4.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u6807\u81f4301 2014\u6b3e 1.6L \u624b\u52a8\u8212\u9002\u7248'>]",武汉,"
+                            新车指导价9.20万(含税)
+                    ",3万公里
+2013-09,https://www.guazi.com/wh/cff08774500c92c5x.htm,¥7.30            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u6717\u9038 2013\u6b3e 1.6L \u624b\u52a8\u8212\u9002\u7248'>]",武汉,"
+                            新车指导价13.70万(含税)
+                    ",3.3万公里
+2016-10,https://www.guazi.com/wh/19acb2d7a0e231b6x.htm,¥18.58            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u9a6c\u81ea\u8fbeCX-7 2014\u6b3e 2.3T \u667a\u80fd\u56db\u9a71\u8fd0\u52a8\u7248'>]",武汉,"
+                            新车指导价28.20万(含税)
+                    ",0.8万公里
+2013-01,https://www.guazi.com/wh/57c82a7a0284bfb4x.htm,¥6.28            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u5b9d\u6765 2013\u6b3e 1.6L \u81ea\u52a8\u65f6\u5c1a\u578b'>]",武汉,"
+                            新车指导价13.00万(含税)
+                    ",5.84万公里
+2015-05,https://www.guazi.com/wh/6e4c1b9627bff476x.htm,¥7.85            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u798f\u7279\u798f\u514b\u65af 2015\u6b3e \u4e24\u53a2 1.6L \u81ea\u52a8\u8212\u9002\u578b'>]",武汉,"
+                            新车指导价13.50万(含税)
+                    ",1.27万公里
+2012-04,https://www.guazi.com/wh/1a2b71fdb1320614x.htm,¥8.58            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5927\u4f17\u9ad8\u5c14\u592b 2012\u6b3e 1.4TSI \u81ea\u52a8\u8c6a\u534e\u578b'>]",武汉,"
+                            新车指导价18.20万(含税)
+                    ",5.67万公里
+2014-10,https://www.guazi.com/wh/c4d54260c8680b75x.htm,¥6.66            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u6807\u81f42008 2014\u6b3e 1.6L \u81ea\u52a8\u65f6\u5c1a\u7248'>]",武汉,"
+                            新车指导价13.20万(含税)
+                    ",3.31万公里
+2014-10,https://www.guazi.com/wh/5d56b6ca39d6f060x.htm,¥7.16            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u798f\u7279\u798f\u514b\u65af 2012\u6b3e \u4e24\u53a2 1.6L \u81ea\u52a8\u8212\u9002\u578b'>]",武汉,"
+                            新车指导价14.20万(含税)
+                    ",3.5万公里
+2012-11,https://www.guazi.com/wh/5712db379c2fff08x.htm,¥8.20            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u522b\u514b\u541b\u5a01 2012\u6b3e 2.0L \u8212\u9002\u7248'>]",武汉,"
+                            新车指导价20.20万(含税)
+                    ",7.6万公里
+2011-08,https://www.guazi.com/wh/27a28d8b1bb37d91x.htm,¥5.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u798f\u7279\u798f\u514b\u65af 2011\u6b3e \u4e09\u53a2 1.8L \u81ea\u52a8\u65f6\u5c1a\u578b'>]",武汉,"
+                            新车指导价13.90万(含税)
+                    ",6.8万公里
+2016-02,https://www.guazi.com/wh/9c8f3dc404267112x.htm,¥9.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u672c\u7530\u601d\u57df 2016\u6b3e 1.8L \u624b\u52a8\u8212\u9002\u7248'>]",武汉,"
+                            新车指导价14.30万(含税)
+                    ",3.1万公里
+2016-01,https://www.guazi.com/wh/519031e89e6066f3x.htm,¥18.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'Jeep\u81ea\u7531\u5149 2016\u6b3e 2.4L \u9886\u5148\u7248'>]",武汉,"
+                            新车指导价24.90万(含税)
+                    ",2.3万公里
+2015-05,https://www.guazi.com/wh/e28177de8863c41fx.htm,¥2.30            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u77e5\u8c46D1 2015\u6b3e \u6807\u51c6\u578b'>]",武汉,"
+                            新车指导价17.20万(含税)
+                    ",2.7万公里
+2017-06,https://www.guazi.com/wh/8ff58dc0dfc79e0ax.htm,¥11.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u8363\u5a01i6 2017\u6b3e 20T \u81ea\u52a8\u4e92\u8054\u7f51\u667a\u5c0a\u7248'>]",武汉,"
+                            新车指导价14.80万(含税)
+                    ",0.33万公里
+2016-03,https://www.guazi.com/wh/50fb05cffee106e2x.htm,¥5.56            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u957f\u5b89CS35 2016\u6b3e 1.6L \u624b\u52a8\u8c6a\u534e\u578b \u56fdIV'>]",武汉,"
+                            新车指导价9.00万(含税)
+                    ",1.6万公里
+2013-08,https://www.guazi.com/wh/ee82e4b22ec414e9x.htm,¥23.00            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u6c83\u5c14\u6c83XC60 2014\u6b3e 2.0T T5 \u667a\u9038\u7248(\u8fdb\u53e3)'>]",武汉,"
+                            新车指导价45.00万(含税)
+                    ",4.86万公里
+2016-11,https://www.guazi.com/wh/6d49e556f53b3f49x.htm,¥10.60            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u54c8\u5f17H6 Coupe 2016\u6b3e \u84dd\u6807 1.5T \u81ea\u52a8\u4e24\u9a71\u7cbe\u82f1\u578b'>]",武汉,"
+                            新车指导价15.50万(含税)
+                    ",0.7万公里
+2017-06,https://www.guazi.com/wh/5fc84c75c9961f4ax.htm,¥6.80            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u5b9d\u9a8f730 2016\u6b3e 1.5L \u624b\u52a8\u8c6a\u534e\u578b 7\u5ea7'>]",武汉,"
+                            新车指导价8.30万(含税)
+                    ",0.03万公里
+2014-07,https://www.guazi.com/wh/127612c9151e2fddx.htm,¥11.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u522b\u514b\u541b\u5a01 2014\u6b3e 1.6T \u65f6\u5c1a\u6280\u672f\u578b'>]",武汉,"
+                            新车指导价21.70万(含税)
+                    ",3.9万公里
+2013-11,https://www.guazi.com/wh/a60d1bff1b7864c5x.htm,¥14.82            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u672c\u7530\u6b4c\u8bd7\u56fe 2012\u6b3e 2.4L \u8c6a\u534e\u7248'>]",武汉,"
+                            新车指导价28.20万(含税)
+                    ",2.6万公里
+2012-12,https://www.guazi.com/wh/192bb5e8a142eb81x.htm,¥3.90            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u6bd4\u4e9a\u8feaS6 2012\u6b3e 2.0L \u624b\u52a8\u5c0a\u8d35\u578b'>]",武汉,"
+                            新车指导价11.70万(含税)
+                    ",8.65万公里
+2013-12,https://www.guazi.com/wh/979d5cdc7e056f6fx.htm,¥11.50            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u8d77\u4e9a\u667a\u8dd1 2012\u6b3e 2.0L \u81ea\u52a8\u4e24\u9a71\u7248GLS'>]",武汉,"
+                            新车指导价20.90万(含税)
+                    ",2.8万公里
+2016-09,https://www.guazi.com/wh/19290eb70572918bx.htm,¥6.30            ,"[<Selector xpath=""//div[@class='titlebox']/p/text()"" data=u'\u6807\u81f4308 2014\u6b3e \u4e50\u4eab\u7248 \u7ecf\u5178 1.6L \u624b\u52a8\u4f18\u5c1a\u578b'>]",武汉,"
+                            新车指导价11.50万(含税)
+                    ",1.6万公里
+shangpai_date,url,price,title,address,price_new,xingshi
+2013-05,https://www.guazi.com/wh/e1fef69991368889x.htm,¥10.80            ,大众途安 2013款 1.4T 自动璀璨版5座,武汉,"
+                            新车指导价22.20万(含税)
+                    ",8.13万公里
+2014-05,https://www.guazi.com/wh/fd7807c879d2ab5bx.htm,¥7.70            ,大众朗逸 2013款 改款经典 1.6L 自动风尚版,武汉,"
+                            新车指导价13.60万(含税)
+                    ",2.91万公里
+2015-10,https://www.guazi.com/wh/812cdbdc5de6385cx.htm,¥34.66            ,宝马X3 2014款 xDrive20i 领先型(进口),武汉,"
+                            新车指导价49.90万(含税)
+                    ",4.69万公里
+2012-04,https://www.guazi.com/wh/51c994d76143c133x.htm,¥8.26            ,日产逍客 2011款 2.0XV 雷 CVT 2WD,武汉,"
+                            新车指导价19.60万(含税)
+                    ",9万公里
+2015-08,https://www.guazi.com/wh/dbff7c3dffdd6c06x.htm,¥8.60            ,长安CS75 2014款 1.8T 自动精英型 国V,武汉,"
+                            新车指导价14.80万(含税)
+                    ",7.47万公里
+2014-01,https://www.guazi.com/wh/4ea0ae0f9ab39c4ax.htm,¥9.99            ,本田杰德 2013款 1.8L 自动舒适版 5座,武汉,"
+                            新车指导价16.30万(含税)
+                    ",3.95万公里
+2016-05,https://www.guazi.com/wh/30d4f79d46e620d1x.htm,¥20.18            ,大众途观 2016款 300TSI 自动四驱豪华版,武汉,"
+                            新车指导价30.00万(含税)
+                    ",2.96万公里
+2013-09,https://www.guazi.com/wh/8e824ecbe71c1bd7x.htm,¥26.00            ,宝马3系 2013款 320Li 豪华设计套装,武汉,"
+                            新车指导价43.30万(含税)
+                    ",3.54万公里
+2015-02,https://www.guazi.com/wh/0448c4bd878de606x.htm,¥12.00            ,纳智捷大7 SUV 2014款 2.2T 两驱智慧型,武汉,"
+                            新车指导价24.60万(含税)
+                    ",3.06万公里
+2010-10,https://www.guazi.com/wh/2b91c539a061907bx.htm,¥0.55            ,哈飞松花江 手动,武汉,"
+                    ",2.81万公里
+2012-12,https://www.guazi.com/wh/27bf1bfed8c85282x.htm,¥6.00            ,雪佛兰科鲁兹 2012款 1.6L SE AT,武汉,"
+                            新车指导价14.60万(含税)
+                    ",5.53万公里
+2016-02,https://www.guazi.com/wh/9c8f3dc404267112x.htm,¥9.00            ,本田思域 2016款 1.8L 手动舒适版,武汉,"
+                            新车指导价14.30万(含税)
+                    ",3.1万公里
+2016-01,https://www.guazi.com/wh/519031e89e6066f3x.htm,¥18.50            ,Jeep自由光 2016款 2.4L 领先版,武汉,"
+                            新车指导价24.90万(含税)
+                    ",2.3万公里
+2015-05,https://www.guazi.com/wh/e28177de8863c41fx.htm,¥2.30            ,知豆D1 2015款 标准型,武汉,"
+                            新车指导价17.20万(含税)
+                    ",2.7万公里
+2017-06,https://www.guazi.com/wh/8ff58dc0dfc79e0ax.htm,¥11.50            ,荣威i6 2017款 20T 自动互联网智尊版,武汉,"
+                            新车指导价14.80万(含税)
+                    ",0.33万公里
+2016-03,https://www.guazi.com/wh/50fb05cffee106e2x.htm,¥5.56            ,长安CS35 2016款 1.6L 手动豪华型 国IV,武汉,"
+                            新车指导价9.00万(含税)
+                    ",1.6万公里
+2013-09,https://www.guazi.com/wh/cff08774500c92c5x.htm,¥7.30            ,大众朗逸 2013款 1.6L 手动舒适版,武汉,"
+                            新车指导价13.70万(含税)
+                    ",3.3万公里
+2016-10,https://www.guazi.com/wh/19acb2d7a0e231b6x.htm,¥18.58            ,马自达CX-7 2014款 2.3T 智能四驱运动版,武汉,"
+                            新车指导价28.20万(含税)
+                    ",0.8万公里
+2013-01,https://www.guazi.com/wh/57c82a7a0284bfb4x.htm,¥6.28            ,大众宝来 2013款 1.6L 自动时尚型,武汉,"
+                            新车指导价13.00万(含税)
+                    ",5.84万公里
+2015-05,https://www.guazi.com/wh/6e4c1b9627bff476x.htm,¥7.85            ,福特福克斯 2015款 两厢 1.6L 自动舒适型,武汉,"
+                            新车指导价13.50万(含税)
+                    ",1.27万公里
+2012-04,https://www.guazi.com/wh/1a2b71fdb1320614x.htm,¥8.58            ,大众高尔夫 2012款 1.4TSI 自动豪华型,武汉,"
+                            新车指导价18.20万(含税)
+                    ",5.67万公里
+2014-10,https://www.guazi.com/wh/c4d54260c8680b75x.htm,¥6.66            ,标致2008 2014款 1.6L 自动时尚版,武汉,"
+                            新车指导价13.20万(含税)
+                    ",3.31万公里
+2014-10,https://www.guazi.com/wh/5d56b6ca39d6f060x.htm,¥7.16            ,福特福克斯 2012款 两厢 1.6L 自动舒适型,武汉,"
+                            新车指导价14.20万(含税)
+                    ",3.5万公里
+2012-11,https://www.guazi.com/wh/5712db379c2fff08x.htm,¥8.20            ,别克君威 2012款 2.0L 舒适版,武汉,"
+                            新车指导价20.20万(含税)
+                    ",7.6万公里
+2011-08,https://www.guazi.com/wh/27a28d8b1bb37d91x.htm,¥5.50            ,福特福克斯 2011款 三厢 1.8L 自动时尚型,武汉,"
+                            新车指导价13.90万(含税)
+                    ",6.8万公里
+2015-06,https://www.guazi.com/wh/c6ed1007e3dea063x.htm,¥8.20            ,别克英朗 2015款 15N 自动精英型,武汉,"
+                            新车指导价13.80万(含税)
+                    ",4.7万公里
+2014-04,https://www.guazi.com/wh/f5494fc7b552d538x.htm,¥5.27            ,别克凯越 2013款 1.5L 自动经典型,武汉,"
+                            新车指导价11.10万(含税)
+                    ",1.78万公里
+2015-12,https://www.guazi.com/wh/d7a3c1b209397d67x.htm,¥26.00            ,雷克萨斯NX 2015款 200 前驱 锋行版,武汉,"
+                            新车指导价34.50万(含税)
+                    ",1.51万公里
+2016-08,https://www.guazi.com/wh/ad1653320a4c60b6x.htm,¥24.00            ,大众途观 2016款 2.0TSI 四驱标准型(进口),武汉,"
+                            新车指导价35.70万(含税)
+                    ",1.7万公里
+2016-01,https://www.guazi.com/wh/ff4e4f9b4a847f57x.htm,¥25.99            ,雷克萨斯ES 2015款 200 精英版,武汉,"
+                            新车指导价32.30万(含税)
+                    ",3.1万公里
+2013-08,https://www.guazi.com/wh/ee82e4b22ec414e9x.htm,¥23.00            ,沃尔沃XC60 2014款 2.0T T5 智逸版(进口),武汉,"
+                            新车指导价45.00万(含税)
+                    ",4.86万公里
+2016-11,https://www.guazi.com/wh/6d49e556f53b3f49x.htm,¥10.60            ,哈弗H6 Coupe 2016款 蓝标 1.5T 自动两驱精英型,武汉,"
+                            新车指导价15.50万(含税)
+                    ",0.7万公里
+2017-06,https://www.guazi.com/wh/5fc84c75c9961f4ax.htm,¥6.80            ,宝骏730 2016款 1.5L 手动豪华型 7座,武汉,"
+                            新车指导价8.30万(含税)
+                    ",0.03万公里
+2014-07,https://www.guazi.com/wh/127612c9151e2fddx.htm,¥11.50            ,别克君威 2014款 1.6T 时尚技术型,武汉,"
+                            新车指导价21.70万(含税)
+                    ",3.9万公里
+2013-11,https://www.guazi.com/wh/a60d1bff1b7864c5x.htm,¥14.82            ,本田歌诗图 2012款 2.4L 豪华版,武汉,"
+                            新车指导价28.20万(含税)
+                    ",2.6万公里
+2012-12,https://www.guazi.com/wh/192bb5e8a142eb81x.htm,¥3.90            ,比亚迪S6 2012款 2.0L 手动尊贵型,武汉,"
+                            新车指导价11.70万(含税)
+                    ",8.65万公里
+2013-12,https://www.guazi.com/wh/979d5cdc7e056f6fx.htm,¥11.50            ,起亚智跑 2012款 2.0L 自动两驱版GLS,武汉,"
+                            新车指导价20.90万(含税)
+                    ",2.8万公里
+2016-09,https://www.guazi.com/wh/19290eb70572918bx.htm,¥6.30            ,标致308 2014款 乐享版 经典 1.6L 手动优尚型,武汉,"
+                            新车指导价11.50万(含税)
+                    ",1.6万公里
+2014-06,https://www.guazi.com/wh/3acd8952b88fce96x.htm,¥13.50            ,马自达阿特兹 2014款 2.0L 蓝天豪华版,武汉,"
+                            新车指导价20.50万(含税)
+                    ",4.4万公里
+2009-11,https://www.guazi.com/wh/4496e576d09ad9fax.htm,¥2.60            ,大众POLO 2008款 劲取 1.4L 手动雅适版,武汉,"
+                            新车指导价9.30万(含税)
+                    ",12.2万公里
