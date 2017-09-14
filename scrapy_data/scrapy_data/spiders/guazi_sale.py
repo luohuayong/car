@@ -7,12 +7,15 @@ class GuaziSaleSpider(scrapy.Spider):
     allowed_domains = ['www.guazi.com']
     start_urls = ['https://www.guazi.com/wh/buy/o3/#bread']
 
-    cookies = {'antipas': 'X7i694396c1239S390023'}
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'}
+    cookies = {'antipas': '57Z575218968bL6r20iIe1E1B2'}
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'}
 
     def start_requests(self):
-        url = 'https://www.guazi.com/wh/buy/o3/#bread'
-        yield Request(url=url, cookies=self.cookies, headers=self.headers, callback=self.parse)
+        # url = 'https://www.guazi.com/wh/buy/o3/#bread'
+        # urls = []
+        for i in range(1,117):
+            url = "https://www.guazi.com/wh/buy/o{}/#bread".format(i)
+            yield Request(url=url, cookies=self.cookies, headers=self.headers, callback=self.parse)
 
     def parse(self, response):
         for item in response.xpath("//ul[@class='carlist clearfix js-top']//a/@href"):
