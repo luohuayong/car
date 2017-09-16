@@ -42,5 +42,10 @@ class ScrapyDataPipeline(object):
 
     def process_item(self, item, spider):
         logging.info("写入数据库")
-        self.insert(item,"car_sale")
+        if spider.name == "guazi_area":
+            self.insert(item,"car_area")
+        # elif spider.name == "guazi":
+        #     self.insert(item,"car_sale")
+        # elif spider.name == "guazi_pinpai":
+        #     self.insert(item,"car_temp1")
         return item
