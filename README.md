@@ -39,7 +39,7 @@ select model_name,min(cc.id),
 substring(min(price_new) from (position( '价' in min(price_new))+1) for (position( '万' in min(price_new)) - position( '价' in min(price_new)) -1))
 from car_sale cs left join car_car cc on cs.car_name=cc.name
 where position( '价' in price_new) > 0
-group by model_name；
+group by model_name;
 
 --插入car_tf
 insert into car_tf (model_id,city_id,used_months,xingshi,price_new,price)
@@ -51,7 +51,12 @@ cm.price_new as price_new,
 substring(price from 2)
 from car_sale cs left join car_model cm on cs.model_name=cm.name
 left join car_area ca on cs.address=ca.city_name
-where position( '价' in cs.price_new) > 0；
+where position( '价' in cs.price_new) > 0;
+
+
+
+select count(*)
+from car_model;
 
 
 ```
